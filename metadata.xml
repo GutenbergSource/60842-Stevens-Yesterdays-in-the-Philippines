@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <rdf:Description>
+      <dc:title>Yesterdays in the Philippines</dc:title>
+      <dc:creator>Joseph Earle Stevens (1870–)</dc:creator>
+      <dc:publisher>Project Gutenberg, Urbana, Illinois, USA., 2019-12-03</dc:publisher>
+      <dc:date>2019-12-03</dc:date>
+      <dc:rights>This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org.
+
+ This eBook is produced by the Online Distributed Proofreading Team at www.pgdp.net.
+
+ Scans of this book are available from the Internet Archive (copy 1).
+
+ </dc:rights>
+      <dc:subject>Philippines -- Description and travel</dc:subject>
+      <dc:description>A description of the Philippines by an American who lived in Manila for a few years before the U.S. took over the islands from Spain in 1898, and thus was able to give an idea of how was life before the American occupation. Some of the characterizations of the Filipinos are considered racist by today’ standards.</dc:description>
+      <dc:identifier>pg:60842</dc:identifier>
+   </rdf:Description>
+</rdf:RDF>
